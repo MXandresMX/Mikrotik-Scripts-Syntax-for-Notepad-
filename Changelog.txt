@@ -1,0 +1,62 @@
+
+	Mikrotik Scripts Syntax Highlighter for Notepad++
+
+-----------------------------------------------------------------------
+	legend:         + add new,         * changed,         - removed
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+	v1.7 (2019-06-15):
+
+	* updated Notepad++ version to 7.7
+	* disabled autocompletion text
+	* fixed UAC for bat script (associating file extensions)
+
+-      -      -      -      -      -      -      -      -      -      -
+
+	v1.6 (2019-01-15):
+
+	* fixed an error a Associating File Extensions on x86 system
+
+-      -      -      -      -      -      -      -      -      -      -
+
+	v1.5 (2019-01-08):
+
+	* fixed an error a transparent text background
+	+ adding method (2b) for manual import highlight themes (Readme.txt)
+
+-      -      -      -      -      -      -      -      -      -      -
+
+	v1.4 (2019-01-07):
+
+	* disabled auto detect encoding for open files
+	* updated Notepad++ version to 7.6.2
+
+-      -      -      -      -      -      -      -      -      -      -
+
+	v1.3 (2018-12-07):
+
+	* associating file extensions methodology changed
+
+-      -      -      -      -      -      -      -      -      -      -
+
+	v1.2 (2018-11-16):
+
+	+ two new syntax highlight themes (Black Glow, Light Glow)
+
+-      -      -      -      -      -      -      -      -      -      -
+
+	v1.1 (2018-11-15):
+
+	+ update MikroTik database commands
+	+ automatic download of the Notepad++
+
+-      -      -      -      -      -      -      -      -      -      -
+
+	v1.0 (2018-11-14):
+
+	+ automatic 3-layer installation
+	+ manual import
+
+-----------------------------------------------------------------------
+
+	Created by truefriend-cz
