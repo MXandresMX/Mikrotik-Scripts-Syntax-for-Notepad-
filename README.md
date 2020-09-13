@@ -7,3 +7,5 @@ Manual - Import only:
 	2b. Menu "Settings" -> "Import", click "Import style theme(s)... and choose the file XML from folder
 	3. Close and open Notepad++
 	4. Open .rsc file
+
+https://forum.mikrotik.com/viewtopic.php?t=141603
